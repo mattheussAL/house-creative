@@ -56,9 +56,9 @@ npm install
 ```bash
 npm run dev
 ```
-<img src="public/Print_1.PNG"/>
-<img src="public/Print_2.PNG"/>
-<img src="public/Print_3.PNG"/>
+<img src="imgs/print1.png"/>
+<img src="imgs/print1.png"/>
+<img src="imgs/print1.png"/>
 
 ## :page_facing_up: License
 
