@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Casa Criativa" src="public/CasaCriativalogo.png"/>
+  <img alt="Casa Criativa" src="public/logo.png"/>
     <br>
 </h1>
 
@@ -57,8 +57,8 @@ npm install
 npm run dev
 ```
 <img src="imgs/print1.png"/>
-<img src="imgs/print1.png"/>
-<img src="imgs/print1.png"/>
+<img src="imgs/print2.png"/>
+<img src="imgs/print3.png"/>
 
 ## :page_facing_up: License
 
